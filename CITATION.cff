@@ -5,7 +5,7 @@ type: software
 authors:
   - family-names: Vinod Paul
     given-names: Kiran
-repository-code: "https://github.com/kiranvpaul/doublet-qc-helper"
+repository-code: "https://github.com/kiranvpaul/Doublet-QC-helper"
 license: MIT
 version: "1.0.0"
 date-released: "2025-10-17"
@@ -16,4 +16,4 @@ preferred-citation:
     - family-names: Vinod Paul
       given-names: Kiran
   year: 2025
-  url: "https://github.com/kiranvpaul/doublet-qc-helper"
+  url: "https://github.com/kiranvpaul/Doublet-QC-helper"
