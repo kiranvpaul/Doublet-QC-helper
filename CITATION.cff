@@ -3,9 +3,9 @@ title: "Doublet QC Helper (Scrublet-based) for 10x scRNA-seq"
 message: "If you use this tool, please cite as below."
 type: software
 authors:
-  - family-names: Paul
-    given-names: Kiran Vinod
-repository-code: "https://github.com/<yourusername>/doublet-qc-helper"
+  - family-names: Vinod Paul
+    given-names: Kiran
+repository-code: "https://github.com/kiranvpaul/doublet-qc-helper"
 license: MIT
 version: "1.0.0"
 date-released: "2025-10-17"
@@ -13,7 +13,7 @@ preferred-citation:
   type: software
   title: "Doublet QC Helper (Scrublet-based) for 10x scRNA-seq"
   authors:
-    - family-names: Paul
-      given-names: Kiran Vinod
+    - family-names: Vinod Paul
+      given-names: Kiran
   year: 2025
-  url: "https://github.com/<yourusername>/doublet-qc-helper"
+  url: "https://github.com/kiranvpaul/doublet-qc-helper"
