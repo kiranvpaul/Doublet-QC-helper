@@ -1,0 +1,10 @@
+# Minimal wheels-only requirements for CentOS HPC (Python 3.11), no matplotlib needed
+numpy==1.26.4
+scipy==1.11.4
+pandas==2.2.2
+scikit-learn==1.3.2
+anndata==0.10.9
+annoy==1.17.3
+scrublet==0.2.3
+# Install scanpy separately without deps:
+# pip install --only-binary=:all: --no-deps scanpy==1.10.2
