@@ -62,5 +62,5 @@ MIT License. See [LICENSE](LICENSE).
 If you use this tool, please cite this repository:
 ```
 Paul KV (2025). Doublet QC Helper (Scrublet-based) for 10x scRNA-seq. v1.0.0.
-https://github.com/<yourusername>/doublet-qc-helper
+https://github.com/kiranvpaul/Doublet-QC-helper
 ```
